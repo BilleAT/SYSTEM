@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SYSTEM – Uafhængigt medie for fremtidens infrastruktur",
-  description: "Uafhængigt medie for fremtidens infrastruktur.",
+  title: "SYSTEM – Uafhængigt medie",
+  description: "Uafhængigt medie. Forstå det i øjenhøjde.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
